@@ -4,6 +4,7 @@ from PyQt6.uic import loadUi
 from path import Path
 from sys import argv
 
+from constants import *
 
 class AppUI(QMainWindow):
     def __init__(self, *args, **kwargs):
