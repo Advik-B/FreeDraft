@@ -1,4 +1,5 @@
 from PyQt6.QtWidgets import QApplication, QMainWindow, QMessageBox
+from PyQt6.QtWebEngineWidgets import QWebEngineView
 from PyQt6.QtGui import QAction
 from PyQt6.uic import loadUi
 from path import Path
